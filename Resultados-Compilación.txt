@@ -1,0 +1,22 @@
+﻿Compilación iniciada a las 12:30...
+------ Operación Compilar iniciada: Proyecto: ProyectoMultidimensional1, configuración: Development ------
+Inicio de la generación del proyecto de Analysis Services: Incremental...
+RelationalDataSource [DS_AdventureWorks] : No use proveedores OLE DB no compatibles en un objeto DataSource.
+Dimension [Dim Product] : Cree jerarquías en dimensiones que no sean de elementos primarios y secundarios.
+Dimension [Dim Customer] : Cree jerarquías en dimensiones que no sean de elementos primarios y secundarios.
+Dimension [Dim Date] : Cree jerarquías en dimensiones que no sean de elementos primarios y secundarios.
+Dimension [Dim Geography] : Cree jerarquías en dimensiones que no sean de elementos primarios y secundarios.
+Database [ProyectoMultidimensional1] : La base de datos no tiene dimensión de tiempo. Considere la posibilidad de crearla.
+Generación completa -- 0 errores, 6 advertencias
+------ Operación Implementar iniciada: Proyecto: ProyectoMultidimensional1, configuración: Development ------
+Realizando una implementación incremental de la base de datos 'ProyectoMultidimensional1' en el servidor 'localhost\SSAS'.
+Generando script de implementación...
+   Proceso Database ProyectoMultidimensional1
+Listo
+Envío del script de implementación al servidor...
+Listo
+Implementación completa -- 0 errores, 0 advertencias
+========== Compilación: 1 correcta o actualizada, 0 con errores, 0 omitida ============
+========== Compilar completado a las 12:30 y tardó 03,156 segundos ==========
+========== Implementación: 1 correcta, 0 con errores, 0 omitido ===========
+========== Implementar completado a las 12:30 y tardó 03,156 segundos ==========
